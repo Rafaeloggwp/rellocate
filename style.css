@@ -1,0 +1,10 @@
+p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
